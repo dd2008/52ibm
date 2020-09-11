@@ -80,7 +80,7 @@ ibmcloud resource groups
 修改完点击start commit。
 再回到Actions就能看到正在运行的项目，等到变成绿色的对号就运行了
 
-### 3. cloudflare加速
+### 3. cloudflare加速 https://www.cloudflare.com/
 
 登陆Cloudflare官网点击workers--创建--复制脚本--修改对应域名
 
